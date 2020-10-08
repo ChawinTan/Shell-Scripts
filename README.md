@@ -24,6 +24,11 @@ This script assumes you have ros2 foxy and gazebo_ros_pkgs installed and you are
 
 run `bash ~/Shell-Scripts/rmf_demos/setup.sh`
 
+### Romi Dashboard Script
 
+This script assumes you have `nvm`, `rmf_core` and `traffic_editor` installed.
 
+`cd` into `romi-dashbard/packages/dashboard`
+
+run `bash ~/Shell-Scripts/romi_dashboard/setup.sh`
 
